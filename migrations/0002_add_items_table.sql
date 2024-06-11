@@ -2,4 +2,3 @@
 create table items (
     name text
 );
-555555

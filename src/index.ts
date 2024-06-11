@@ -35,4 +35,3 @@ export default {
 		return new Response(JSON.stringify({ firstItem, updatedItem, items }));
 	},
 };
-55555555
