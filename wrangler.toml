@@ -1,0 +1,9 @@
+name = "web-d1"
+main = "src/index.ts"
+compatibility_date = "2024-06-10"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "web-d1"
+database_id = "b75ebb55-7fe5-4503-a81c-640daf2dbf78"
