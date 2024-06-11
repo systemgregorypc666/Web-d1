@@ -22,4 +22,3 @@ export default defineWorkersProject(async () => {
 		},
 	};
 });
-222222222222
