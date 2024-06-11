@@ -12,4 +12,3 @@ it('should insert and query user', async () => {
 	const userById = await env.DB.prepare('select * from users where id = ?').bind(user!.id).first<UserRow>();
 	expect(userById).toEqual({ id: 1, name: 'name', email: 'email@example.com' });
 });
-5555555
