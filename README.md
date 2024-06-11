@@ -28,5 +28,3 @@ Your worker has access to the following bindings:
 ```
 
 Vitest: https://github.com/systemgregorypc666/Web-d1
-
-5555
